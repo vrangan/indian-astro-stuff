@@ -1,0 +1,10 @@
+# Generated charts and visualizations
+visualization_*.png
+horoscope_*.png
+test_horoscope_*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.bsp
+*.csv
